@@ -1,0 +1,15 @@
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/bin/Debug/net6.0/ref/Persistence.dll
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/Users/alinavoicu/Developer/projects/eventive-backend/Persistence/obj/Debug/net6.0/Persistence.pdb
